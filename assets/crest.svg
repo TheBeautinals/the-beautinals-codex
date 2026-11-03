@@ -1,0 +1,82 @@
+<svg class="crest-svg" viewBox="0 0 600 600" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="THE BEAUTINALS – XXXI Canonical Inscriptions, Genesis 2023">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&amp;family=Cormorant+Garamond:wght@600;700&amp;display=swap');
+        </style>
+        <linearGradient id="gold-grad-master" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#9a7422"/>
+            <stop offset="28%" stop-color="#e5c875"/>
+            <stop offset="50%" stop-color="#fdf0a6"/>
+            <stop offset="72%" stop-color="#d4af37"/>
+            <stop offset="100%" stop-color="#8a6418"/>
+        </linearGradient>
+        <radialGradient id="plaque-glow-master" cx="50%" cy="50%" r="60%">
+            <stop offset="0%" stop-color="#151106"/>
+            <stop offset="100%" stop-color="#060606"/>
+        </radialGradient>
+    </defs>
+    <rect x="0" y="0" width="600" height="600" fill="#050505"/>
+    <rect x="24" y="24" width="552" height="552" rx="28" ry="28" fill="#080808" stroke="url(#gold-grad-master)" stroke-width="10.0"/>
+    
+    <!-- 12 Uhr (Kante Oben): Zyklus I (Eidos 1..4) -> LA -> Zyklus II (Geosmin 1..4) -->
+    <g class="rim-inscription">
+        <text x="100.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">481817</text>
+        <text x="149.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">504407</text>
+        <text x="199.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">507915</text>
+        <text x="248.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">917920</text>
+        <text x="300.0" y="24.50" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="8.0" font-weight="900" letter-spacing="1.8">LA</text>
+        <text x="351.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">929807</text>
+        <text x="401.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">916020</text>
+        <text x="450.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">756309</text>
+        <text x="500.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">756311</text>
+    </g>
+    <!-- 3 Uhr (Kante Rechts): Zyklus III (Hortus 1..4) -> LA -> Zyklus IV (Purkinje 1..4) -->
+    <g class="rim-inscription" transform="rotate(90 300 300)">
+        <text x="100.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">661407</text>
+        <text x="149.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">660455</text>
+        <text x="199.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">928810</text>
+        <text x="248.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">928811</text>
+        <text x="300.0" y="24.50" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="8.0" font-weight="900" letter-spacing="1.8">LA</text>
+        <text x="351.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1080448</text>
+        <text x="401.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1080504</text>
+        <text x="450.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1107899</text>
+        <text x="500.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1102985</text>
+    </g>
+    <!-- 6 Uhr (Kante Unten, aufrecht lesbar, Sonnenlauf von rechts nach links): Zyklus V (Spheres 1..4) -> LA -> Zyklus VI (Singularity 1..4) -->
+    <g class="rim-inscription">
+        <text x="100.0" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1038653</text>
+        <text x="149.5" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1038647</text>
+        <text x="199.0" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">927939</text>
+        <text x="248.5" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">916988</text>
+        <text x="300.0" y="576.50" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="8.0" font-weight="900" letter-spacing="1.8">LA</text>
+        <text x="351.5" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">459921</text>
+        <text x="401.0" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">485331</text>
+        <text x="450.5" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">916346</text>
+        <text x="500.0" y="576.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">645229</text>
+    </g>
+    <!-- 9 Uhr (Kante Links): Zyklus VII (Magnum Opus 1..4) -> LA -> Zyklus VIII (Youth 1..3 + MASTER-INSKRIPTION 127790428) -->
+    <g class="rim-inscription" transform="rotate(270 300 300)">
+        <text x="100.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">1188605</text>
+        <text x="149.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">919079</text>
+        <text x="199.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">661591</text>
+        <text x="248.5" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">878104</text>
+        <text x="300.0" y="24.50" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="8.0" font-weight="900" letter-spacing="1.8">LA</text>
+        <text x="348.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">484687</text>
+        <text x="395.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">490527</text>
+        <text x="442.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.2" font-weight="700" letter-spacing="1.4">928809</text>
+        <text x="497.0" y="24.30" dominant-baseline="central" text-anchor="middle" fill="#050505" font-family="'Cinzel', serif" font-size="6.0" font-weight="700" letter-spacing="0.9">127790428</text>
+    </g>
+
+    <text class="crest-title" x="304" y="152" text-anchor="middle" fill="url(#gold-grad-master)" font-family="'Cormorant Garamond', 'Garamond', 'Georgia', serif" font-size="28" font-weight="600" letter-spacing="14">THE BEAUTINALS</text>
+    <rect class="crest-plaque" x="135" y="210" width="330" height="178" rx="20" ry="20" fill="url(#plaque-glow-master)" stroke="url(#gold-grad-master)" stroke-width="4.2"/>
+    <rect x="146" y="221" width="308" height="156" rx="12" ry="12" fill="none" stroke="url(#gold-grad-master)" stroke-width="1.0" stroke-opacity="0.40"/>
+    <g opacity="0.7">
+        <circle cx="160" cy="235" r="3.2" fill="#080808" stroke="url(#gold-grad-master)" stroke-width="1.3"/>
+        <circle cx="440" cy="235" r="3.2" fill="#080808" stroke="url(#gold-grad-master)" stroke-width="1.3"/>
+        <circle cx="160" cy="363" r="3.2" fill="#080808" stroke="url(#gold-grad-master)" stroke-width="1.3"/>
+        <circle cx="440" cy="363" r="3.2" fill="#080808" stroke="url(#gold-grad-master)" stroke-width="1.3"/>
+    </g>
+    <text class="crest-xxxi" x="306" y="328" text-anchor="middle" fill="url(#gold-grad-master)" font-family="'Cormorant Garamond', 'Garamond', 'Georgia', serif" font-size="86" font-weight="600" letter-spacing="14">XXXI</text>
+    <text class="crest-subtitle" x="303" y="458" text-anchor="middle" fill="url(#gold-grad-master)" font-family="'Cormorant Garamond', 'Garamond', 'Georgia', serif" font-size="16" font-weight="600" letter-spacing="7">CANONICAL INSCRIPTIONS</text>
+    <text class="crest-genesis" x="302" y="488" text-anchor="middle" fill="#a89460" font-family="'Cormorant Garamond', 'Garamond', 'Georgia', serif" font-size="13" font-weight="600" letter-spacing="8">GENESIS 2023</text>
+</svg>
