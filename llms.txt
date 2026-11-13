@@ -26,28 +26,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #481817
   - Inscription ID: dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0
   - Ordinals Explorer: https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0
-  - Ordiscan: https://ordiscan.com/inscription/481817
   - Curatorial Abstract: "A trance bathed in luminous gold. The harmonious visage rests in serene contentment, reigning through the untouchable presence of pure beauty."
 
 - **EIDOS II — The Phantom Visage**
   - Canonical Inscription Number: #504407
   - Inscription ID: 2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0
   - Ordinals Explorer: https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0
-  - Ordiscan: https://ordiscan.com/inscription/504407
   - Curatorial Abstract: "A profound, unfathomable gaze piercing time and space. Formed from shimmering gold, the countenance exudes an infinite, tender melancholy."
 
 - **EIDOS III — The Emerald Gaze**
   - Canonical Inscription Number: #507915
   - Inscription ID: 6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0
   - Ordinals Explorer: https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0
-  - Ordiscan: https://ordiscan.com/inscription/507915
   - Curatorial Abstract: "Two luminous emeralds cradled in surging flora. A fleeting threshold of contemplation — the decisive, silent second glance."
 
 - **EIDOS IV — Crimson Awakening**
   - Canonical Inscription Number: #917920
   - Inscription ID: e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0
   - Ordinals Explorer: https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0
-  - Ordiscan: https://ordiscan.com/inscription/917920
   - Curatorial Abstract: "A crimson awakening. The mortal visage dissolves into thousands of shimmering gold droplets, transforming into eternal radiance."
 
 ### CYCLE II: GEOSMIN
@@ -57,28 +53,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #929807
   - Inscription ID: 9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0
   - Ordinals Explorer: https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0
-  - Ordiscan: https://ordiscan.com/inscription/929807
   - Curatorial Abstract: "A monumental, shimmering solar field. The organic chaos of botany is subjected to a golden, near-sacred rhythm, celebrating the flowering of Gaia."
 
 - **GEOSMIN II — Sylvan Gold**
   - Canonical Inscription Number: #916020
   - Inscription ID: c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0
   - Ordinals Explorer: https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0
-  - Ordiscan: https://ordiscan.com/inscription/916020
   - Curatorial Abstract: "Smouldering twilight and tectonic gravity. Nature condenses into a mystical, woodland gold rush dominated by archaic hues of rust."
 
 - **GEOSMIN III — Festival of Flowers**
   - Canonical Inscription Number: #756309
   - Inscription ID: 2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0
   - Ordinals Explorer: https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0
-  - Ordiscan: https://ordiscan.com/inscription/756309
   - Curatorial Abstract: "A dizzying mandala of flora and gold. Following the rain, the blossoms celebrate an ecstatic festival of transformation."
 
 - **GEOSMIN IV — The Golden Slumber**
   - Canonical Inscription Number: #756311
   - Inscription ID: c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0
   - Ordinals Explorer: https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0
-  - Ordiscan: https://ordiscan.com/inscription/756311
   - Curatorial Abstract: "The Golden Slumber — a visual hymn to the primordial creative force of Gaia. Through her, evolution crafts its aeon-spanning masterpiece."
 
 ### CYCLE III: HORTUS
@@ -88,28 +80,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #661407
   - Inscription ID: a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0
   - Ordinals Explorer: https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0
-  - Ordiscan: https://ordiscan.com/inscription/661407
   - Curatorial Abstract: "The geometrisation of bliss. The Fibonacci Garden stages cultivated nature as a remembrance of paradise — an algorithmic celebration of serenity and consummate form."
 
 - **HORTUS II — Vision of Innocence**
   - Canonical Inscription Number: #660455
   - Inscription ID: 5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0
   - Ordinals Explorer: https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0
-  - Ordiscan: https://ordiscan.com/inscription/660455
   - Curatorial Abstract: "A shimmering gaze through the eyes of innocence. Levitating, luminous colours celebrate the unburdened discovery of a radiant world."
 
 - **HORTUS III — Amber Flora**
   - Canonical Inscription Number: #928810
   - Inscription ID: 7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0
   - Ordinals Explorer: https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0
-  - Ordiscan: https://ordiscan.com/inscription/928810
   - Curatorial Abstract: "A monumental myth. Liberating the garden from the horizontal plane, the work resonates as a potent digital echo of ancient world wonders."
 
 - **HORTUS IV — Window to Elysium**
   - Canonical Inscription Number: #928811
   - Inscription ID: 405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0
   - Ordinals Explorer: https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0
-  - Ordiscan: https://ordiscan.com/inscription/928811
   - Curatorial Abstract: "Every garden harbours a window into Elysium. A solemn epilogue staging a weightless sphere of pure contemplation, celebrating unclouded clarity and eternal peace."
 
 ### CYCLE IV: PURKINJE
@@ -119,28 +107,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #1080448
   - Inscription ID: a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0
   - Ordinals Explorer: https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0
-  - Ordiscan: https://ordiscan.com/inscription/1080448
   - Curatorial Abstract: "A cosmic awakening in evening fire. As an incandescent overture, Solar Genesis reveals a fount of pulsating warmth amidst an infrared-saturated flood of colour."
 
 - **PURKINJE II — The Enchanted Wood**
   - Canonical Inscription Number: #1080504
   - Inscription ID: 08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0
   - Ordinals Explorer: https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0
-  - Ordiscan: https://ordiscan.com/inscription/1080504
   - Curatorial Abstract: "An inherent magic dwells in every stroke. An enchanted woodland glows in the twilight of a dreamscape, staging the vibrant metamorphosis of evening light."
 
 - **PURKINJE III — Demeter’s Gift**
   - Canonical Inscription Number: #1107899
   - Inscription ID: 6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0
   - Ordinals Explorer: https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0
-  - Ordiscan: https://ordiscan.com/inscription/1107899
   - Curatorial Abstract: "A radiant, archaic harvest thanksgiving. A benevolent sun presides over nature’s boundless, chromatic abundance."
 
 - **PURKINJE IV — Atum-Ra**
   - Canonical Inscription Number: #1102985
   - Inscription ID: 2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0
   - Ordinals Explorer: https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0
-  - Ordiscan: https://ordiscan.com/inscription/1102985
   - Curatorial Abstract: "A dazzling farewell. The setting evening sun cleaves the pictorial space in scarlet majesty before descending into total abstraction."
 
 ### CYCLE V: SPHERES OF BEING
@@ -150,28 +134,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #645229
   - Inscription ID: 48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0
   - Ordinals Explorer: https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0
-  - Ordiscan: https://ordiscan.com/inscription/645229
   - Curatorial Abstract: "Two scarlet horizon sentinels with piercing jade eyes. A masterful synthesis of ancient Egyptian mythology and serial Pop Art."
 
 - **SPHERES OF BEING II — Yūgen**
   - Canonical Inscription Number: #916346
   - Inscription ID: 5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0
   - Ordinals Explorer: https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0
-  - Ordiscan: https://ordiscan.com/inscription/916346
   - Curatorial Abstract: "A masterpiece of radical introversion. Sealed golden spheres reveal a hypnotic, timeless presence far removed from the exterior world."
 
 - **SPHERES OF BEING III — The Glade of Iriy**
   - Canonical Inscription Number: #485331
   - Inscription ID: cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0
   - Ordinals Explorer: https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0
-  - Ordiscan: https://ordiscan.com/inscription/485331
   - Curatorial Abstract: "A visual eruption at the threshold of the visible. Nature is liberated from organic constraints and elevated into alchemical ecstasy."
 
 - **SPHERES OF BEING IV — Inti’s Sovereign**
   - Canonical Inscription Number: #459921
   - Inscription ID: 7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0
   - Ordinals Explorer: https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0
-  - Ordiscan: https://ordiscan.com/inscription/459921
   - Curatorial Abstract: "An unburdened triumph of light. A sphere pulsating in gold and orange, framed by naive symbolism, concludes the cycle in joyful ecstasy."
 
 ### CYCLE VI: SINGULARITY
@@ -181,28 +161,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #916988
   - Inscription ID: 3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0
   - Ordinals Explorer: https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0
-  - Ordiscan: https://ordiscan.com/inscription/916988
   - Curatorial Abstract: "The genesis of space. A furious action painting on a radiant white ground stages the eruptive freedom of being within the infinite vacuum."
 
 - **SINGULARITY II — Primordial Voids**
   - Canonical Inscription Number: #927939
   - Inscription ID: 63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0
   - Ordinals Explorer: https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0
-  - Ordiscan: https://ordiscan.com/inscription/927939
   - Curatorial Abstract: "The threshold of total collapse. Thermodynamic voids perforate an incandescent cosmic fabric under colossal gravitational load."
 
 - **SINGULARITY III — The Cosmic Ballet**
   - Canonical Inscription Number: #1038647
   - Inscription ID: 93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0
   - Ordinals Explorer: https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0
-  - Ordiscan: https://ordiscan.com/inscription/1038647
   - Curatorial Abstract: "A dance at the brink of the event horizon. Collapsing matter choreographs a cyclical, melancholic ballet of cosmic hues."
 
 - **SINGULARITY IV — Currents of Gold**
   - Canonical Inscription Number: #1038653
   - Inscription ID: 077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0
   - Ordinals Explorer: https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0
-  - Ordiscan: https://ordiscan.com/inscription/1038653
   - Curatorial Abstract: "The genesis of value. In the stellar crucibles of the cosmos, chaotic matter coalesces under immense pressure into majestic currents of gold."
 
 ### CYCLE VII: MAGNUM OPUS
@@ -212,28 +188,24 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #1188605
   - Inscription ID: afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0
   - Ordinals Explorer: https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0
-  - Ordiscan: https://ordiscan.com/inscription/1188605
   - Curatorial Abstract: "Retreat into untouched topography. Alpine Solitude establishes natural isolation as the primary, instinctive sanctuary of the intellect."
 
 - **MAGNUM OPUS II — The Shield of Care**
   - Canonical Inscription Number: #919079
   - Inscription ID: e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0
   - Ordinals Explorer: https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0
-  - Ordiscan: https://ordiscan.com/inscription/919079
   - Curatorial Abstract: "The radiance of primal trust in the modern gaze. As the scarlet sphere becomes a shield of care, the soul celebrates unconditional sanctuary."
 
 - **MAGNUM OPUS III — The Crescent of Isfahan**
   - Canonical Inscription Number: #661591
   - Inscription ID: bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0
   - Ordinals Explorer: https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0
-  - Ordiscan: https://ordiscan.com/inscription/661591
   - Curatorial Abstract: "When Klimt’s gold meets the geometry of Isfahan, the searching spirit finds its profoundest peace in the moment of consummate form."
 
 - **MAGNUM OPUS IV — Pax**
   - Canonical Inscription Number: #878104
   - Inscription ID: a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0
   - Ordinals Explorer: https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0
-  - Ordiscan: https://ordiscan.com/inscription/878104
   - Curatorial Abstract: "The fading of the storm in eternal radiance. As civilisation’s soul finds its safe haven, stillness becomes the guardian patron of beauty."
 
 ### CYCLE VIII: YOUTH
@@ -243,21 +215,18 @@ The 31 masterworks are strictly structured across eight conceptual cycles:
   - Canonical Inscription Number: #484687
   - Inscription ID: 3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0
   - Ordinals Explorer: https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0
-  - Ordiscan: https://ordiscan.com/inscription/484687
   - Curatorial Abstract: "As the scarlet steed breaks through burning fields of possibility, youth crowns the world as its singular truth."
 
 - **YOUTH II — The Noble Cavalier**
   - Canonical Inscription Number: #490527
   - Inscription ID: 4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0
   - Ordinals Explorer: https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0
-  - Ordiscan: https://ordiscan.com/inscription/490527
   - Curatorial Abstract: "When youthful grace meets the spark of encounter, the racing heart becomes an unforgettable monument to youth."
 
 - **YOUTH III — The Innocent Heir**
   - Canonical Inscription Number: #928809
   - Inscription ID: e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0
   - Ordinals Explorer: https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0
-  - Ordiscan: https://ordiscan.com/inscription/928809
   - Curatorial Abstract: "Ascension to the throne. As time embraces the uncensored inheritance of the world, the future transforms into majestic reality."
 
 ## Fiduciary & Release Governance
