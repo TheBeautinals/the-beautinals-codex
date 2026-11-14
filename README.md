@@ -19,12 +19,13 @@
 
 ## ON-CHAIN PROVENANCE & CRYPTOGRAPHIC VERIFICATION
 
-This repository serves as the public, human- and machine-readable archival mirror of **THE BEAUTINALS — THE CURATORIAL CODEX**, permanently and immutably inscribed as a monolithic, self-contained HTML artefact on the Bitcoin blockchain in **Block 973,866**.
+This repository serves as the public, human- and machine-readable archival mirror of **THE BEAUTINALS — THE CURATORIAL CODEX**. *The Beautinals* is a curated cycle of thirty-one **Digital Fine Art** masterworks permanently inscribed on Bitcoin Layer 1 (Sub-1.2M Vintage, Spring 2023), anchored as a monolithic, self-contained HTML artefact on the Bitcoin blockchain in **Block 973,866**.
 
 | Parameter | Canonical On-Chain Value |
 | :--- | :--- |
 | **Collection Name** | **The Beautinals** (*XXXI Canonical Inscriptions*) |
 | **Artist** | **Lux Aeterna** |
+| **Classification / Genre** | **Digital Fine Art** (*Bitcoin Layer 1 Inscriptions*) |
 | **Master Codex Title** | *THE BEAUTINALS — THE CURATORIAL CODEX* |
 | **Master Inscription No.** | [**#127790428**](https://ordinals.com/inscription/127790428) |
 | **Master Inscription ID** | `071c18eac86359a51a277cf6e8ae109b7df7aedbc9009845dc8d7152ee0393b7i0` |
@@ -113,7 +114,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### EIDOS I · *The Golden Sovereign*
 
-<a href="https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0"><img src="./assets/481817.webp" alt="The Beautinals — EIDOS I — The Golden Sovereign · Canonical Bitcoin Inscription #481817 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0"><img src="./assets/481817.webp" alt="The Beautinals — EIDOS I — The Golden Sovereign · Digital Fine Art · Canonical Bitcoin Inscription #481817 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#481817**](https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0)<br>
 **ID:** `dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0`
@@ -126,7 +127,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### EIDOS II · *The Phantom Visage*
 
-<a href="https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0"><img src="./assets/504407.webp" alt="The Beautinals — EIDOS II — The Phantom Visage · Canonical Bitcoin Inscription #504407 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0"><img src="./assets/504407.webp" alt="The Beautinals — EIDOS II — The Phantom Visage · Digital Fine Art · Canonical Bitcoin Inscription #504407 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#504407**](https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0)<br>
 **ID:** `2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0`
@@ -139,7 +140,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### EIDOS III · *The Emerald Gaze*
 
-<a href="https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0"><img src="./assets/507915.webp" alt="The Beautinals — EIDOS III — The Emerald Gaze · Canonical Bitcoin Inscription #507915 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0"><img src="./assets/507915.webp" alt="The Beautinals — EIDOS III — The Emerald Gaze · Digital Fine Art · Canonical Bitcoin Inscription #507915 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#507915**](https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0)<br>
 **ID:** `6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0`
@@ -152,7 +153,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### EIDOS IV · *Crimson Awakening*
 
-<a href="https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0"><img src="./assets/917920.webp" alt="The Beautinals — EIDOS IV — Crimson Awakening · Canonical Bitcoin Inscription #917920 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0"><img src="./assets/917920.webp" alt="The Beautinals — EIDOS IV — Crimson Awakening · Digital Fine Art · Canonical Bitcoin Inscription #917920 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#917920**](https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0)<br>
 **ID:** `e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0`
@@ -175,7 +176,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### GEOSMIN I · *Bloom of Gaia*
 
-<a href="https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0"><img src="./assets/929807.webp" alt="The Beautinals — GEOSMIN I — Bloom of Gaia · Canonical Bitcoin Inscription #929807 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0"><img src="./assets/929807.webp" alt="The Beautinals — GEOSMIN I — Bloom of Gaia · Digital Fine Art · Canonical Bitcoin Inscription #929807 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#929807**](https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0)<br>
 **ID:** `9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0`
@@ -188,7 +189,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### GEOSMIN II · *Sylvan Gold*
 
-<a href="https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0"><img src="./assets/916020.webp" alt="The Beautinals — GEOSMIN II — Sylvan Gold · Canonical Bitcoin Inscription #916020 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0"><img src="./assets/916020.webp" alt="The Beautinals — GEOSMIN II — Sylvan Gold · Digital Fine Art · Canonical Bitcoin Inscription #916020 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#916020**](https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0)<br>
 **ID:** `c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0`
@@ -201,7 +202,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### GEOSMIN III · *Festival of Flowers*
 
-<a href="https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0"><img src="./assets/756309.webp" alt="The Beautinals — GEOSMIN III — Festival of Flowers · Canonical Bitcoin Inscription #756309 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0"><img src="./assets/756309.webp" alt="The Beautinals — GEOSMIN III — Festival of Flowers · Digital Fine Art · Canonical Bitcoin Inscription #756309 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#756309**](https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0)<br>
 **ID:** `2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0`
@@ -214,7 +215,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### GEOSMIN IV · *The Golden Slumber*
 
-<a href="https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0"><img src="./assets/756311.webp" alt="The Beautinals — GEOSMIN IV — The Golden Slumber · Canonical Bitcoin Inscription #756311 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0"><img src="./assets/756311.webp" alt="The Beautinals — GEOSMIN IV — The Golden Slumber · Digital Fine Art · Canonical Bitcoin Inscription #756311 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#756311**](https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0)<br>
 **ID:** `c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0`
@@ -237,7 +238,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### HORTUS I · *The Fibonacci Garden*
 
-<a href="https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0"><img src="./assets/661407.webp" alt="The Beautinals — HORTUS I — The Fibonacci Garden · Canonical Bitcoin Inscription #661407 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0"><img src="./assets/661407.webp" alt="The Beautinals — HORTUS I — The Fibonacci Garden · Digital Fine Art · Canonical Bitcoin Inscription #661407 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#661407**](https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0)<br>
 **ID:** `a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0`
@@ -250,7 +251,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### HORTUS II · *Vision of Innocence*
 
-<a href="https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0"><img src="./assets/660455.webp" alt="The Beautinals — HORTUS II — Vision of Innocence · Canonical Bitcoin Inscription #660455 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0"><img src="./assets/660455.webp" alt="The Beautinals — HORTUS II — Vision of Innocence · Digital Fine Art · Canonical Bitcoin Inscription #660455 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#660455**](https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0)<br>
 **ID:** `5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0`
@@ -263,7 +264,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### HORTUS III · *Amber Flora*
 
-<a href="https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0"><img src="./assets/928810.webp" alt="The Beautinals — HORTUS III — Amber Flora · Canonical Bitcoin Inscription #928810 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0"><img src="./assets/928810.webp" alt="The Beautinals — HORTUS III — Amber Flora · Digital Fine Art · Canonical Bitcoin Inscription #928810 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#928810**](https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0)<br>
 **ID:** `7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0`
@@ -276,7 +277,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### HORTUS IV · *Window to Elysium*
 
-<a href="https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0"><img src="./assets/928811.webp" alt="The Beautinals — HORTUS IV — Window to Elysium · Canonical Bitcoin Inscription #928811 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0"><img src="./assets/928811.webp" alt="The Beautinals — HORTUS IV — Window to Elysium · Digital Fine Art · Canonical Bitcoin Inscription #928811 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#928811**](https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0)<br>
 **ID:** `405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0`
@@ -299,7 +300,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### PURKINJE I · *Solar Genesis*
 
-<a href="https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0"><img src="./assets/1080448.webp" alt="The Beautinals — PURKINJE I — Solar Genesis · Canonical Bitcoin Inscription #1080448 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0"><img src="./assets/1080448.webp" alt="The Beautinals — PURKINJE I — Solar Genesis · Digital Fine Art · Canonical Bitcoin Inscription #1080448 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1080448**](https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0)<br>
 **ID:** `a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0`
@@ -312,7 +313,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### PURKINJE II · *The Enchanted Wood*
 
-<a href="https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0"><img src="./assets/1080504.webp" alt="The Beautinals — PURKINJE II — The Enchanted Wood · Canonical Bitcoin Inscription #1080504 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0"><img src="./assets/1080504.webp" alt="The Beautinals — PURKINJE II — The Enchanted Wood · Digital Fine Art · Canonical Bitcoin Inscription #1080504 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1080504**](https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0)<br>
 **ID:** `08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0`
@@ -325,7 +326,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### PURKINJE III · *Demeter’s Gift*
 
-<a href="https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0"><img src="./assets/1107899.webp" alt="The Beautinals — PURKINJE III — Demeter’s Gift · Canonical Bitcoin Inscription #1107899 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0"><img src="./assets/1107899.webp" alt="The Beautinals — PURKINJE III — Demeter’s Gift · Digital Fine Art · Canonical Bitcoin Inscription #1107899 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1107899**](https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0)<br>
 **ID:** `6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0`
@@ -338,7 +339,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### PURKINJE IV · *Atum-Ra*
 
-<a href="https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0"><img src="./assets/1102985.webp" alt="The Beautinals — PURKINJE IV — Atum-Ra · Canonical Bitcoin Inscription #1102985 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0"><img src="./assets/1102985.webp" alt="The Beautinals — PURKINJE IV — Atum-Ra · Digital Fine Art · Canonical Bitcoin Inscription #1102985 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1102985**](https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0)<br>
 **ID:** `2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0`
@@ -361,7 +362,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SPHERES OF BEING I · *Ruty*
 
-<a href="https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0"><img src="./assets/645229.webp" alt="The Beautinals — SPHERES OF BEING I — Ruty · Canonical Bitcoin Inscription #645229 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0"><img src="./assets/645229.webp" alt="The Beautinals — SPHERES OF BEING I — Ruty · Digital Fine Art · Canonical Bitcoin Inscription #645229 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#645229**](https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0)<br>
 **ID:** `48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0`
@@ -374,7 +375,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SPHERES OF BEING II · *Yūgen*
 
-<a href="https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0"><img src="./assets/916346.webp" alt="The Beautinals — SPHERES OF BEING II — Yūgen · Canonical Bitcoin Inscription #916346 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0"><img src="./assets/916346.webp" alt="The Beautinals — SPHERES OF BEING II — Yūgen · Digital Fine Art · Canonical Bitcoin Inscription #916346 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#916346**](https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0)<br>
 **ID:** `5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0`
@@ -387,7 +388,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SPHERES OF BEING III · *The Glade of Iriy*
 
-<a href="https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0"><img src="./assets/485331.webp" alt="The Beautinals — SPHERES OF BEING III — The Glade of Iriy · Canonical Bitcoin Inscription #485331 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0"><img src="./assets/485331.webp" alt="The Beautinals — SPHERES OF BEING III — The Glade of Iriy · Digital Fine Art · Canonical Bitcoin Inscription #485331 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#485331**](https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0)<br>
 **ID:** `cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0`
@@ -400,7 +401,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SPHERES OF BEING IV · *Inti’s Sovereign*
 
-<a href="https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0"><img src="./assets/459921.webp" alt="The Beautinals — SPHERES OF BEING IV — Inti’s Sovereign · Canonical Bitcoin Inscription #459921 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0"><img src="./assets/459921.webp" alt="The Beautinals — SPHERES OF BEING IV — Inti’s Sovereign · Digital Fine Art · Canonical Bitcoin Inscription #459921 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#459921**](https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0)<br>
 **ID:** `7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0`
@@ -423,7 +424,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SINGULARITY I · *Primordial Plasma*
 
-<a href="https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0"><img src="./assets/916988.webp" alt="The Beautinals — SINGULARITY I — Primordial Plasma · Canonical Bitcoin Inscription #916988 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0"><img src="./assets/916988.webp" alt="The Beautinals — SINGULARITY I — Primordial Plasma · Digital Fine Art · Canonical Bitcoin Inscription #916988 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#916988**](https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0)<br>
 **ID:** `3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0`
@@ -436,7 +437,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SINGULARITY II · *Primordial Voids*
 
-<a href="https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0"><img src="./assets/927939.webp" alt="The Beautinals — SINGULARITY II — Primordial Voids · Canonical Bitcoin Inscription #927939 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0"><img src="./assets/927939.webp" alt="The Beautinals — SINGULARITY II — Primordial Voids · Digital Fine Art · Canonical Bitcoin Inscription #927939 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#927939**](https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0)<br>
 **ID:** `63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0`
@@ -449,7 +450,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SINGULARITY III · *The Cosmic Ballet*
 
-<a href="https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0"><img src="./assets/1038647.webp" alt="The Beautinals — SINGULARITY III — The Cosmic Ballet · Canonical Bitcoin Inscription #1038647 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0"><img src="./assets/1038647.webp" alt="The Beautinals — SINGULARITY III — The Cosmic Ballet · Digital Fine Art · Canonical Bitcoin Inscription #1038647 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1038647**](https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0)<br>
 **ID:** `93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0`
@@ -462,7 +463,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### SINGULARITY IV · *Currents of Gold*
 
-<a href="https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0"><img src="./assets/1038653.webp" alt="The Beautinals — SINGULARITY IV — Currents of Gold · Canonical Bitcoin Inscription #1038653 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0"><img src="./assets/1038653.webp" alt="The Beautinals — SINGULARITY IV — Currents of Gold · Digital Fine Art · Canonical Bitcoin Inscription #1038653 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1038653**](https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0)<br>
 **ID:** `077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0`
@@ -485,7 +486,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### MAGNUM OPUS I · *Alpine Solitude*
 
-<a href="https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0"><img src="./assets/1188605.webp" alt="The Beautinals — MAGNUM OPUS I — Alpine Solitude · Canonical Bitcoin Inscription #1188605 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0"><img src="./assets/1188605.webp" alt="The Beautinals — MAGNUM OPUS I — Alpine Solitude · Digital Fine Art · Canonical Bitcoin Inscription #1188605 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#1188605**](https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0)<br>
 **ID:** `afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0`
@@ -498,7 +499,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### MAGNUM OPUS II · *The Shield of Care*
 
-<a href="https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0"><img src="./assets/919079.webp" alt="The Beautinals — MAGNUM OPUS II — The Shield of Care · Canonical Bitcoin Inscription #919079 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0"><img src="./assets/919079.webp" alt="The Beautinals — MAGNUM OPUS II — The Shield of Care · Digital Fine Art · Canonical Bitcoin Inscription #919079 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#919079**](https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0)<br>
 **ID:** `e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0`
@@ -511,7 +512,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### MAGNUM OPUS III · *The Crescent of Isfahan*
 
-<a href="https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0"><img src="./assets/661591.webp" alt="The Beautinals — MAGNUM OPUS III — The Crescent of Isfahan · Canonical Bitcoin Inscription #661591 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0"><img src="./assets/661591.webp" alt="The Beautinals — MAGNUM OPUS III — The Crescent of Isfahan · Digital Fine Art · Canonical Bitcoin Inscription #661591 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#661591**](https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0)<br>
 **ID:** `bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0`
@@ -524,7 +525,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### MAGNUM OPUS IV · *Pax*
 
-<a href="https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0"><img src="./assets/878104.webp" alt="The Beautinals — MAGNUM OPUS IV — Pax · Canonical Bitcoin Inscription #878104 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0"><img src="./assets/878104.webp" alt="The Beautinals — MAGNUM OPUS IV — Pax · Digital Fine Art · Canonical Bitcoin Inscription #878104 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#878104**](https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0)<br>
 **ID:** `a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0`
@@ -547,7 +548,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### YOUTH I · *The Scarlet Steed*
 
-<a href="https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0"><img src="./assets/484687.webp" alt="The Beautinals — YOUTH I — The Scarlet Steed · Canonical Bitcoin Inscription #484687 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0"><img src="./assets/484687.webp" alt="The Beautinals — YOUTH I — The Scarlet Steed · Digital Fine Art · Canonical Bitcoin Inscription #484687 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#484687**](https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0)<br>
 **ID:** `3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0`
@@ -560,7 +561,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### YOUTH II · *The Noble Cavalier*
 
-<a href="https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0"><img src="./assets/490527.webp" alt="The Beautinals — YOUTH II — The Noble Cavalier · Canonical Bitcoin Inscription #490527 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0"><img src="./assets/490527.webp" alt="The Beautinals — YOUTH II — The Noble Cavalier · Digital Fine Art · Canonical Bitcoin Inscription #490527 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#490527**](https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0)<br>
 **ID:** `4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0`
@@ -573,7 +574,7 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 #### YOUTH III · *The Innocent Heir*
 
-<a href="https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0"><img src="./assets/928809.webp" alt="The Beautinals — YOUTH III — The Innocent Heir · Canonical Bitcoin Inscription #928809 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
+<a href="https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0"><img src="./assets/928809.webp" alt="The Beautinals — YOUTH III — The Innocent Heir · Digital Fine Art · Canonical Bitcoin Inscription #928809 by Lux Aeterna" width="180" align="left" hspace="20" vspace="6" /></a>
 
 **Inscription No.:** [**#928809**](https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0)<br>
 **ID:** `e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0`
@@ -588,53 +589,53 @@ The provenance, intellectual custody, and primary stewardship of *The Beautinals
 
 ## CYCLE GALLERY — XXXI
 
-The following visual matrix indexes all 31 masterpieces of *The Beautinals* collection alongside their canonical Inscription numbers, fully and natively verifiable upon the Bitcoin blockchain.
+The following visual matrix indexes all 31 **Digital Fine Art** masterpieces of *The Beautinals* collection alongside their canonical Inscription numbers, fully and natively verifiable upon the Bitcoin blockchain.
 
 ### CYCLE I: EIDOS
 
-| [<img src="./assets/481817.webp" width="160" alt="The Beautinals — EIDOS I — The Golden Sovereign (#481817)" />](https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0) | [<img src="./assets/504407.webp" width="160" alt="The Beautinals — EIDOS II — The Phantom Visage (#504407)" />](https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0) | [<img src="./assets/507915.webp" width="160" alt="The Beautinals — EIDOS III — The Emerald Gaze (#507915)" />](https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0) | [<img src="./assets/917920.webp" width="160" alt="The Beautinals — EIDOS IV — Crimson Awakening (#917920)" />](https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0) |
+| [<img src="./assets/481817.webp" width="160" alt="The Beautinals — EIDOS I — The Golden Sovereign (#481817) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0) | [<img src="./assets/504407.webp" width="160" alt="The Beautinals — EIDOS II — The Phantom Visage (#504407) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0) | [<img src="./assets/507915.webp" width="160" alt="The Beautinals — EIDOS III — The Emerald Gaze (#507915) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0) | [<img src="./assets/917920.webp" width="160" alt="The Beautinals — EIDOS IV — Crimson Awakening (#917920) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0) |
 | :---: | :---: | :---: | :---: |
 | **EIDOS I**<br>[**#481817**](https://ordinals.com/inscription/dbe22d7b82463648a5fa1f2d8ae14ab697ac752905dbaba3a88239cd22838e83i0) | **EIDOS II**<br>[**#504407**](https://ordinals.com/inscription/2baf3e3a5964319ad1e214c72e7a29657b981ec0466ce863a1de0a9d5525df4ei0) | **EIDOS III**<br>[**#507915**](https://ordinals.com/inscription/6e4c549d4058efaf3aba86f9f67442a46d9eb9937d22ec5a9038daa53859e3d7i0) | **EIDOS IV**<br>[**#917920**](https://ordinals.com/inscription/e186cd412e24ff565dcec93da6e90afa2471aa14c20d915220b3b2d34e9272dbi0) |
 
 ### CYCLE II: GEOSMIN
 
-| [<img src="./assets/929807.webp" width="160" alt="The Beautinals — GEOSMIN I — Bloom of Gaia (#929807)" />](https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0) | [<img src="./assets/916020.webp" width="160" alt="The Beautinals — GEOSMIN II — Sylvan Gold (#916020)" />](https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0) | [<img src="./assets/756309.webp" width="160" alt="The Beautinals — GEOSMIN III — Festival of Flowers (#756309)" />](https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0) | [<img src="./assets/756311.webp" width="160" alt="The Beautinals — GEOSMIN IV — The Golden Slumber (#756311)" />](https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0) |
+| [<img src="./assets/929807.webp" width="160" alt="The Beautinals — GEOSMIN I — Bloom of Gaia (#929807) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0) | [<img src="./assets/916020.webp" width="160" alt="The Beautinals — GEOSMIN II — Sylvan Gold (#916020) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0) | [<img src="./assets/756309.webp" width="160" alt="The Beautinals — GEOSMIN III — Festival of Flowers (#756309) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0) | [<img src="./assets/756311.webp" width="160" alt="The Beautinals — GEOSMIN IV — The Golden Slumber (#756311) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0) |
 | :---: | :---: | :---: | :---: |
 | **GEOSMIN I**<br>[**#929807**](https://ordinals.com/inscription/9d6c6332e665e532d04aa655322122cbb5ea90c6ed2a95677d271af9aeea9c3bi0) | **GEOSMIN II**<br>[**#916020**](https://ordinals.com/inscription/c7016c2559fb59ac9ab0c057e644d058e7b93a3fe4af44eda7f9daa60eb6dd7di0) | **GEOSMIN III**<br>[**#756309**](https://ordinals.com/inscription/2f9c7ed1e0e650b42360e38d18bda2fbc1f21e230cf11cba4628d58a2fe98b26i0) | **GEOSMIN IV**<br>[**#756311**](https://ordinals.com/inscription/c1f2ab63acbee9b74a42561c05d6d867052ebe956ede4ff332c53ab2c873812ci0) |
 
 ### CYCLE III: HORTUS
 
-| [<img src="./assets/661407.webp" width="160" alt="The Beautinals — HORTUS I — The Fibonacci Garden (#661407)" />](https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0) | [<img src="./assets/660455.webp" width="160" alt="The Beautinals — HORTUS II — Vision of Innocence (#660455)" />](https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0) | [<img src="./assets/928810.webp" width="160" alt="The Beautinals — HORTUS III — Amber Flora (#928810)" />](https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0) | [<img src="./assets/928811.webp" width="160" alt="The Beautinals — HORTUS IV — Window to Elysium (#928811)" />](https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0) |
+| [<img src="./assets/661407.webp" width="160" alt="The Beautinals — HORTUS I — The Fibonacci Garden (#661407) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0) | [<img src="./assets/660455.webp" width="160" alt="The Beautinals — HORTUS II — Vision of Innocence (#660455) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0) | [<img src="./assets/928810.webp" width="160" alt="The Beautinals — HORTUS III — Amber Flora (#928810) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0) | [<img src="./assets/928811.webp" width="160" alt="The Beautinals — HORTUS IV — Window to Elysium (#928811) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0) |
 | :---: | :---: | :---: | :---: |
 | **HORTUS I**<br>[**#661407**](https://ordinals.com/inscription/a76326cbf065df883be3e54ad2d1f996a1d87bbd3b4fa6c5a9f5d04f961a9d56i0) | **HORTUS II**<br>[**#660455**](https://ordinals.com/inscription/5e50408dff42426da662ffc1a7cdc610a4d0e550cf715bf927a21715e879d015i0) | **HORTUS III**<br>[**#928810**](https://ordinals.com/inscription/7dde7c13da15e2eb89da1cfd7abef6a74238ba50b53498f5250852766e34e5f0i0) | **HORTUS IV**<br>[**#928811**](https://ordinals.com/inscription/405d3b13f066e90efc5ee87c6bdb285ef129b8fa2b76967563a5da13b971fffci0) |
 
 ### CYCLE IV: PURKINJE
 
-| [<img src="./assets/1080448.webp" width="160" alt="The Beautinals — PURKINJE I — Solar Genesis (#1080448)" />](https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0) | [<img src="./assets/1080504.webp" width="160" alt="The Beautinals — PURKINJE II — The Enchanted Wood (#1080504)" />](https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0) | [<img src="./assets/1107899.webp" width="160" alt="The Beautinals — PURKINJE III — Demeter’s Gift (#1107899)" />](https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0) | [<img src="./assets/1102985.webp" width="160" alt="The Beautinals — PURKINJE IV — Atum-Ra (#1102985)" />](https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0) |
+| [<img src="./assets/1080448.webp" width="160" alt="The Beautinals — PURKINJE I — Solar Genesis (#1080448) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0) | [<img src="./assets/1080504.webp" width="160" alt="The Beautinals — PURKINJE II — The Enchanted Wood (#1080504) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0) | [<img src="./assets/1107899.webp" width="160" alt="The Beautinals — PURKINJE III — Demeter’s Gift (#1107899) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0) | [<img src="./assets/1102985.webp" width="160" alt="The Beautinals — PURKINJE IV — Atum-Ra (#1102985) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0) |
 | :---: | :---: | :---: | :---: |
 | **PURKINJE I**<br>[**#1080448**](https://ordinals.com/inscription/a6b012fdbd5b0c75507fce25d828d8bded78808384b334a64265c28e49f87303i0) | **PURKINJE II**<br>[**#1080504**](https://ordinals.com/inscription/08bac3932271c20793775fa437563a34f6cf218226f2e7dd331781ea20a23208i0) | **PURKINJE III**<br>[**#1107899**](https://ordinals.com/inscription/6bbd9c22c2bf43fb6c246ad146445b677a3ae14ff0ec486ac1c75b6fc31ba3f3i0) | **PURKINJE IV**<br>[**#1102985**](https://ordinals.com/inscription/2d4cff0bd6e6a2ff5526a50241034cd773e7fd39177aa63f2324d9a7b479ce93i0) |
 
 ### CYCLE V: SPHERES OF BEING
 
-| [<img src="./assets/645229.webp" width="160" alt="The Beautinals — SPHERES OF BEING I — Ruty (#645229)" />](https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0) | [<img src="./assets/916346.webp" width="160" alt="The Beautinals — SPHERES OF BEING II — Yūgen (#916346)" />](https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0) | [<img src="./assets/485331.webp" width="160" alt="The Beautinals — SPHERES OF BEING III — The Glade of Iriy (#485331)" />](https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0) | [<img src="./assets/459921.webp" width="160" alt="The Beautinals — SPHERES OF BEING IV — Inti’s Sovereign (#459921)" />](https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0) |
+| [<img src="./assets/645229.webp" width="160" alt="The Beautinals — SPHERES OF BEING I — Ruty (#645229) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0) | [<img src="./assets/916346.webp" width="160" alt="The Beautinals — SPHERES OF BEING II — Yūgen (#916346) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0) | [<img src="./assets/485331.webp" width="160" alt="The Beautinals — SPHERES OF BEING III — The Glade of Iriy (#485331) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0) | [<img src="./assets/459921.webp" width="160" alt="The Beautinals — SPHERES OF BEING IV — Inti’s Sovereign (#459921) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0) |
 | :---: | :---: | :---: | :---: |
 | **SPHERES OF BEING I**<br>[**#645229**](https://ordinals.com/inscription/48f3ac2993ff7b99af8bd054daef98cb26ef6e4ee0fb9be3fa6dce45aff4259di0) | **SPHERES OF BEING II**<br>[**#916346**](https://ordinals.com/inscription/5e983da21ba0a6662e5b7070c82dfdcc2c6224e92f85cdd2d6849bffa03989b5i0) | **SPHERES OF BEING III**<br>[**#485331**](https://ordinals.com/inscription/cceae84e9aea8c4cdafc9f84bbe149c0ae920c1e18dc476d0343e2733836348bi0) | **SPHERES OF BEING IV**<br>[**#459921**](https://ordinals.com/inscription/7bb89596bdc220facce5ba5874fbc5f380b9b063d9c80b93dcf704a3cd356b24i0) |
 
 ### CYCLE VI: SINGULARITY
 
-| [<img src="./assets/916988.webp" width="160" alt="The Beautinals — SINGULARITY I — Primordial Plasma (#916988)" />](https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0) | [<img src="./assets/927939.webp" width="160" alt="The Beautinals — SINGULARITY II — Primordial Voids (#927939)" />](https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0) | [<img src="./assets/1038647.webp" width="160" alt="The Beautinals — SINGULARITY III — The Cosmic Ballet (#1038647)" />](https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0) | [<img src="./assets/1038653.webp" width="160" alt="The Beautinals — SINGULARITY IV — Currents of Gold (#1038653)" />](https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0) |
+| [<img src="./assets/916988.webp" width="160" alt="The Beautinals — SINGULARITY I — Primordial Plasma (#916988) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0) | [<img src="./assets/927939.webp" width="160" alt="The Beautinals — SINGULARITY II — Primordial Voids (#927939) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0) | [<img src="./assets/1038647.webp" width="160" alt="The Beautinals — SINGULARITY III — The Cosmic Ballet (#1038647) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0) | [<img src="./assets/1038653.webp" width="160" alt="The Beautinals — SINGULARITY IV — Currents of Gold (#1038653) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0) |
 | :---: | :---: | :---: | :---: |
 | **SINGULARITY I**<br>[**#916988**](https://ordinals.com/inscription/3bbce82b720b3fcc5f59e998061f702d64eb0cdcd10710dd2e22e1155bd1f8cfi0) | **SINGULARITY II**<br>[**#927939**](https://ordinals.com/inscription/63f0b78e35bcb0d8345f7ce48dfd08ecc4d27c18ca0ff0fe4bbc8bb243cc570bi0) | **SINGULARITY III**<br>[**#1038647**](https://ordinals.com/inscription/93d1b7da0701a5f0555702bddc9031e3bc959853db31768cdc5b8b0bbfff0fc7i0) | **SINGULARITY IV**<br>[**#1038653**](https://ordinals.com/inscription/077bafc1d3398db1b555ce12961d622c2c2fbd9ab4fff8cfa98843c1ef7b29e5i0) |
 
 ### CYCLE VII: MAGNUM OPUS
 
-| [<img src="./assets/1188605.webp" width="160" alt="The Beautinals — MAGNUM OPUS I — Alpine Solitude (#1188605)" />](https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0) | [<img src="./assets/919079.webp" width="160" alt="The Beautinals — MAGNUM OPUS II — The Shield of Care (#919079)" />](https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0) | [<img src="./assets/661591.webp" width="160" alt="The Beautinals — MAGNUM OPUS III — The Crescent of Isfahan (#661591)" />](https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0) | [<img src="./assets/878104.webp" width="160" alt="The Beautinals — MAGNUM OPUS IV — Pax (#878104)" />](https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0) |
+| [<img src="./assets/1188605.webp" width="160" alt="The Beautinals — MAGNUM OPUS I — Alpine Solitude (#1188605) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0) | [<img src="./assets/919079.webp" width="160" alt="The Beautinals — MAGNUM OPUS II — The Shield of Care (#919079) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0) | [<img src="./assets/661591.webp" width="160" alt="The Beautinals — MAGNUM OPUS III — The Crescent of Isfahan (#661591) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0) | [<img src="./assets/878104.webp" width="160" alt="The Beautinals — MAGNUM OPUS IV — Pax (#878104) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0) |
 | :---: | :---: | :---: | :---: |
 | **MAGNUM OPUS I**<br>[**#1188605**](https://ordinals.com/inscription/afe92ac3e7e99b0dbfb7e2781614a0e856dbd7023c1ffaa39d69582e92c33cf0i0) | **MAGNUM OPUS II**<br>[**#919079**](https://ordinals.com/inscription/e7c3deb809eb5ac51bad66e50599154aa52eca0dd764e7736db0813f41987573i0) | **MAGNUM OPUS III**<br>[**#661591**](https://ordinals.com/inscription/bb0cb5cf35235212fdfb442df34200ddf8c8311d360765400a88a5ecec89f76bi0) | **MAGNUM OPUS IV**<br>[**#878104**](https://ordinals.com/inscription/a88138337461462ede84e8799e8a6c27e13b88a706ca2789b15a4efe064a8aa9i0) |
 
 ### CYCLE VIII: YOUTH
 
-| [<img src="./assets/484687.webp" width="160" alt="The Beautinals — YOUTH I — The Scarlet Steed (#484687)" />](https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0) | [<img src="./assets/490527.webp" width="160" alt="The Beautinals — YOUTH II — The Noble Cavalier (#490527)" />](https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0) | [<img src="./assets/928809.webp" width="160" alt="The Beautinals — YOUTH III — The Innocent Heir (#928809)" />](https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0) |
+| [<img src="./assets/484687.webp" width="160" alt="The Beautinals — YOUTH I — The Scarlet Steed (#484687) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0) | [<img src="./assets/490527.webp" width="160" alt="The Beautinals — YOUTH II — The Noble Cavalier (#490527) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0) | [<img src="./assets/928809.webp" width="160" alt="The Beautinals — YOUTH III — The Innocent Heir (#928809) · Digital Fine Art by Lux Aeterna" />](https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0) |
 | :---: | :---: | :---: |
 | **YOUTH I**<br>[**#484687**](https://ordinals.com/inscription/3206f06451a52fdddacdf23ed5101afceb54affc39748363b0dba4c1d3174374i0) | **YOUTH II**<br>[**#490527**](https://ordinals.com/inscription/4c469ec788473f83636feb90ba372e087b88fced82fe6b0086ac9c89f4c99cd7i0) | **YOUTH III**<br>[**#928809**](https://ordinals.com/inscription/e81b96dd99dcea84b2d9b2e0c27d04047e996ffa17151040b1793ea595517fedi0) |
 
